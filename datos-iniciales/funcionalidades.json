@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1,
+    "descripcion": null,
+    "idmodulo": 1,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 2,
+    "descripcion": null,
+    "idmodulo": 1,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 3,
+    "descripcion": null,
+    "idmodulo": 1,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 4,
+    "descripcion": null,
+    "idmodulo": 1,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 5,
+    "descripcion": null,
+    "idmodulo": 1,
+    "eliminado": false,
+    "nombre": "Acceso al Módulo"
+  },
+  {
+    "id": 6,
+    "descripcion": "El formulario es utilizado para registrar y editar Grupos",
+    "idmodulo": 1,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 7,
+    "descripcion": "Permite consultar el último código utilizado en el registro de Grupos",
+    "idmodulo": 1,
+    "eliminado": false,
+    "nombre": "Consultar último código"
+  },
+  {
+    "id": 20,
+    "descripcion": null,
+    "idmodulo": 2,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 21,
+    "descripcion": null,
+    "idmodulo": 2,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 22,
+    "descripcion": null,
+    "idmodulo": 2,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 23,
+    "descripcion": null,
+    "idmodulo": 2,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 24,
+    "descripcion": null,
+    "idmodulo": 2,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 25,
+    "descripcion": "El formulario es utilizado para registrar y editar Servicios",
+    "idmodulo": 2,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 26,
+    "descripcion": "Permite consultar el último código utilizado en el registro de Servicios",
+    "idmodulo": 2,
+    "eliminado": false,
+    "nombre": "Consultar último código"
+  },
+  {
+    "id": 40,
+    "descripcion": null,
+    "idmodulo": 3,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 41,
+    "descripcion": null,
+    "idmodulo": 3,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 42,
+    "descripcion": null,
+    "idmodulo": 3,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 43,
+    "descripcion": null,
+    "idmodulo": 3,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 44,
+    "descripcion": null,
+    "idmodulo": 3,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 45,
+    "descripcion": "El formulario es utilizado para registrar y editar Departamentos",
+    "idmodulo": 3,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 60,
+    "descripcion": null,
+    "idmodulo": 4,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 61,
+    "descripcion": null,
+    "idmodulo": 4,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 62,
+    "descripcion": null,
+    "idmodulo": 4,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 63,
+    "descripcion": null,
+    "idmodulo": 4,
+    "eliminado": false,
+    "nombre": "Delete"
+  },
+  {
+    "id": 64,
+    "descripcion": null,
+    "idmodulo": 4,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 65,
+    "descripcion": "El formulario es utilizado para registrar y editar Distritos",
+    "idmodulo": 4,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 80,
+    "descripcion": null,
+    "idmodulo": 5,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 81,
+    "descripcion": null,
+    "idmodulo": 5,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 82,
+    "descripcion": null,
+    "idmodulo": 5,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 83,
+    "descripcion": null,
+    "idmodulo": 5,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 84,
+    "descripcion": null,
+    "idmodulo": 5,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 85,
+    "descripcion": "Permite consultar el último código utilizado en el registro de los barrios",
+    "idmodulo": 5,
+    "eliminado": false,
+    "nombre": "Consultar ultimo código"
+  },
+  {
+    "id": 86,
+    "descripcion": "El formulario es utilizado para registrar y editar Barrios",
+    "idmodulo": 5,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 120,
+    "descripcion": null,
+    "idmodulo": 7,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 121,
+    "descripcion": null,
+    "idmodulo": 7,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 122,
+    "descripcion": null,
+    "idmodulo": 7,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 123,
+    "descripcion": null,
+    "idmodulo": 7,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 124,
+    "descripcion": null,
+    "idmodulo": 7,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 125,
+    "descripcion": "Permite al usuario que inició sesión cambiar su propia contraseña",
+    "idmodulo": 7,
+    "eliminado": false,
+    "nombre": "Cambiar contraseña propia"
+  },
+  {
+    "id": 126,
+    "descripcion": "El formulario es utilizado para registrar y editar Usuarios",
+    "idmodulo": 7,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 140,
+    "descripcion": null,
+    "idmodulo": 8,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 141,
+    "descripcion": null,
+    "idmodulo": 8,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 142,
+    "descripcion": null,
+    "idmodulo": 8,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 143,
+    "descripcion": null,
+    "idmodulo": 8,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 144,
+    "descripcion": null,
+    "idmodulo": 8,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 145,
+    "descripcion": "El formulario es utilizado para registrar y editar Roles",
+    "idmodulo": 8,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 160,
+    "descripcion": null,
+    "idmodulo": 9,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 161,
+    "descripcion": null,
+    "idmodulo": 9,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 162,
+    "descripcion": null,
+    "idmodulo": 9,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 163,
+    "descripcion": null,
+    "idmodulo": 9,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 164,
+    "descripcion": "Permite obtener la cantidad total de suscripciones según parametros establecidos",
+    "idmodulo": 9,
+    "eliminado": false,
+    "nombre": "Consultar cantidad"
+  },
+  {
+    "id": 165,
+    "descripcion": null,
+    "idmodulo": 9,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 166,
+    "descripcion": "El formulario es utilizado para registrar y editar Suscripciones",
+    "idmodulo": 9,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 167,
+    "descripcion": "Permite consultar el último código utilizado en el registro de Suscripciones",
+    "idmodulo": 9,
+    "eliminado": false,
+    "nombre": "Consultar último código"
+  },
+  {
+    "id": 180,
+    "descripcion": null,
+    "idmodulo": 10,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 181,
+    "descripcion": null,
+    "idmodulo": 10,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 182,
+    "descripcion": null,
+    "idmodulo": 10,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 183,
+    "descripcion": null,
+    "idmodulo": 10,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 184,
+    "descripcion": null,
+    "idmodulo": 10,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 185,
+    "descripcion": "El formulario es utilizado para registrar y editar Clientes",
+    "idmodulo": 10,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 186,
+    "descripcion": "Permite consultar el último código utilizado en el registro de Clientes",
+    "idmodulo": 10,
+    "eliminado": false,
+    "nombre": "Consultar último código"
+  },
+  {
+    "id": 200,
+    "descripcion": null,
+    "idmodulo": 11,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 201,
+    "descripcion": null,
+    "idmodulo": 11,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 202,
+    "descripcion": null,
+    "idmodulo": 11,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 203,
+    "descripcion": null,
+    "idmodulo": 11,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 204,
+    "descripcion": "El formulario es utilizado para registrar y editar Domicilios",
+    "idmodulo": 11,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 205,
+    "descripcion": "Permite consultar el último código utilizado en el registro de Domicilios",
+    "idmodulo": 11,
+    "eliminado": false,
+    "nombre": "Consultar último código"
+  },
+  {
+    "id": 206,
+    "descripcion": null,
+    "idmodulo": 11,
+    "eliminado": false,
+    "nombre": "Acceso al Módulo"
+  },
+  {
+    "id": 220,
+    "descripcion": null,
+    "idmodulo": 12,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 221,
+    "descripcion": null,
+    "idmodulo": 12,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 222,
+    "descripcion": null,
+    "idmodulo": 12,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 223,
+    "descripcion": null,
+    "idmodulo": 12,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 224,
+    "descripcion": "El formulario es utilizado para registrar y editar Cuotas",
+    "idmodulo": 12,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 225,
+    "descripcion": null,
+    "idmodulo": 12,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 240,
+    "descripcion": null,
+    "idmodulo": 13,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 241,
+    "descripcion": null,
+    "idmodulo": 13,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 242,
+    "descripcion": null,
+    "idmodulo": 13,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 243,
+    "descripcion": null,
+    "idmodulo": 13,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 244,
+    "descripcion": null,
+    "idmodulo": 13,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 245,
+    "descripcion": "El formulario es utilizado para registrar y editar Timbrados",
+    "idmodulo": 13,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 246,
+    "descripcion": "Permite consultar el último código utilizado en el registro de Timbrados",
+    "idmodulo": 13,
+    "eliminado": false,
+    "nombre": "Consultar Último Código"
+  },
+  {
+    "id": 260,
+    "descripcion": null,
+    "idmodulo": 14,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 261,
+    "descripcion": null,
+    "idmodulo": 14,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 262,
+    "descripcion": null,
+    "idmodulo": 14,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 263,
+    "descripcion": null,
+    "idmodulo": 14,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 264,
+    "descripcion": null,
+    "idmodulo": 14,
+    "eliminado": false,
+    "nombre": "Anular"
+  },
+  {
+    "id": 265,
+    "descripcion": null,
+    "idmodulo": 14,
+    "eliminado": false,
+    "nombre": "Revertir anulación"
+  },
+  {
+    "id": 266,
+    "descripcion": null,
+    "idmodulo": 14,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 280,
+    "descripcion": null,
+    "idmodulo": 15,
+    "eliminado": false,
+    "nombre": "Consultar modulos"
+  },
+  {
+    "id": 281,
+    "descripcion": null,
+    "idmodulo": 15,
+    "eliminado": false,
+    "nombre": "Consultar permisos"
+  },
+  {
+    "id": 282,
+    "descripcion": "Permite modificar los permisos de los usuarios dentro de la aplicación",
+    "idmodulo": 15,
+    "eliminado": false,
+    "nombre": "Editar permisos"
+  },
+  {
+    "id": 283,
+    "descripcion": "El formulario permite editar los permisos de los usuarios",
+    "idmodulo": 15,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 300,
+    "descripcion": null,
+    "idmodulo": 16,
+    "eliminado": false,
+    "nombre": "Consultar suscripciones"
+  },
+  {
+    "id": 301,
+    "descripcion": null,
+    "idmodulo": 16,
+    "eliminado": false,
+    "nombre": "Consultar Facturas Ventas"
+  },
+  {
+    "id": 320,
+    "descripcion": null,
+    "idmodulo": 17,
+    "eliminado": false,
+    "nombre": "Consultar eventos"
+  },
+  {
+    "id": 321,
+    "descripcion": null,
+    "idmodulo": 17,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 340,
+    "descripcion": null,
+    "idmodulo": 18,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 341,
+    "descripcion": null,
+    "idmodulo": 18,
+    "eliminado": false,
+    "nombre": "Registrar"
+  },
+  {
+    "id": 342,
+    "descripcion": null,
+    "idmodulo": 18,
+    "eliminado": false,
+    "nombre": "Editar"
+  },
+  {
+    "id": 343,
+    "descripcion": null,
+    "idmodulo": 18,
+    "eliminado": false,
+    "nombre": "Eliminar"
+  },
+  {
+    "id": 344,
+    "descripcion": null,
+    "idmodulo": 18,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 345,
+    "descripcion": "El formulario permite registrar y editar los formatos de impresión de facturas",
+    "idmodulo": 18,
+    "eliminado": false,
+    "nombre": "Acceso al Formulario"
+  },
+  {
+    "id": 360,
+    "descripcion": null,
+    "idmodulo": 19,
+    "eliminado": false,
+    "nombre": "Consultar"
+  },
+  {
+    "id": 361,
+    "descripcion": null,
+    "idmodulo": 19,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  },
+  {
+    "id": 380,
+    "descripcion": null,
+    "idmodulo": 20,
+    "eliminado": false,
+    "nombre": "Acceso al módulo"
+  }
+]

@@ -1,0 +1,162 @@
+[
+    {
+      "idfuncionalidad": 6,
+      "idfuncionalidad_dependencia": 7
+    },
+    {
+      "idfuncionalidad": 24,
+      "idfuncionalidad_dependencia": 1
+    },
+    {
+      "idfuncionalidad": 25,
+      "idfuncionalidad_dependencia": 1
+    },
+    {
+      "idfuncionalidad": 25,
+      "idfuncionalidad_dependencia": 26
+    },
+    {
+      "idfuncionalidad": 65,
+      "idfuncionalidad_dependencia": 40
+    },
+    {
+      "idfuncionalidad": 84,
+      "idfuncionalidad_dependencia": 40
+    },
+    {
+      "idfuncionalidad": 84,
+      "idfuncionalidad_dependencia": 60
+    },
+    {
+      "idfuncionalidad": 86,
+      "idfuncionalidad_dependencia": 85
+    },
+    {
+      "idfuncionalidad": 165,
+      "idfuncionalidad_dependencia": 1
+    },
+    {
+      "idfuncionalidad": 165,
+      "idfuncionalidad_dependencia": 40
+    },
+    {
+      "idfuncionalidad": 165,
+      "idfuncionalidad_dependencia": 60
+    },
+    {
+      "idfuncionalidad": 165,
+      "idfuncionalidad_dependencia": 80
+    },
+    {
+      "idfuncionalidad": 165,
+      "idfuncionalidad_dependencia": 120
+    },
+    {
+      "idfuncionalidad": 165,
+      "idfuncionalidad_dependencia": 164
+    },
+    {
+      "idfuncionalidad": 166,
+      "idfuncionalidad_dependencia": 20
+    },
+    {
+      "idfuncionalidad": 166,
+      "idfuncionalidad_dependencia": 167
+    },
+    {
+      "idfuncionalidad": 166,
+      "idfuncionalidad_dependencia": 180
+    },
+    {
+      "idfuncionalidad": 166,
+      "idfuncionalidad_dependencia": 200
+    },
+    {
+      "idfuncionalidad": 184,
+      "idfuncionalidad_dependencia": 40
+    },
+    {
+      "idfuncionalidad": 184,
+      "idfuncionalidad_dependencia": 60
+    },
+    {
+      "idfuncionalidad": 184,
+      "idfuncionalidad_dependencia": 80
+    },
+    {
+      "idfuncionalidad": 184,
+      "idfuncionalidad_dependencia": 120
+    },
+    {
+      "idfuncionalidad": 185,
+      "idfuncionalidad_dependencia": 120
+    },
+    {
+      "idfuncionalidad": 185,
+      "idfuncionalidad_dependencia": 186
+    },
+    {
+      "idfuncionalidad": 204,
+      "idfuncionalidad_dependencia": 80
+    },
+    {
+      "idfuncionalidad": 204,
+      "idfuncionalidad_dependencia": 205
+    },
+    {
+      "idfuncionalidad": 224,
+      "idfuncionalidad_dependencia": 20
+    },
+    {
+      "idfuncionalidad": 245,
+      "idfuncionalidad_dependencia": 246
+    },
+    {
+      "idfuncionalidad": 245,
+      "idfuncionalidad_dependencia": 340
+    },
+    {
+      "idfuncionalidad": 260,
+      "idfuncionalidad_dependencia": 360
+    },
+    {
+      "idfuncionalidad": 321,
+      "idfuncionalidad_dependencia": 120
+    },
+    {
+      "idfuncionalidad": 360,
+      "idfuncionalidad_dependencia": 160
+    },
+    {
+      "idfuncionalidad": 361,
+      "idfuncionalidad_dependencia": 1
+    },
+    {
+      "idfuncionalidad": 361,
+      "idfuncionalidad_dependencia": 20
+    },
+    {
+      "idfuncionalidad": 361,
+      "idfuncionalidad_dependencia": 120
+    },
+    {
+      "idfuncionalidad": 380,
+      "idfuncionalidad_dependencia": 20
+    },
+    {
+      "idfuncionalidad": 380,
+      "idfuncionalidad_dependencia": 160
+    },
+    {
+      "idfuncionalidad": 380,
+      "idfuncionalidad_dependencia": 180
+    },
+    {
+      "idfuncionalidad": 380,
+      "idfuncionalidad_dependencia": 220
+    },
+    {
+      "idfuncionalidad": 380,
+      "idfuncionalidad_dependencia": 240
+    }
+  ]

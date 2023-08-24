@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "descripcion": "Grupo"
+    },
+    {
+      "id": 2,
+      "descripcion": "Servicios"
+    },
+    {
+      "id": 3,
+      "descripcion": "Departamentos"
+    },
+    {
+      "id": 4,
+      "descripcion": "Distritos"
+    },
+    {
+      "id": 5,
+      "descripcion": "Barrios"
+    },
+    {
+      "id": 6,
+      "descripcion": "Tipos de Domicilios"
+    },
+    {
+      "id": 7,
+      "descripcion": "Cobradores"
+    },
+    {
+      "id": 8,
+      "descripcion": "Usuarios"
+    },
+    {
+      "id": 9,
+      "descripcion": "Timbrados"
+    },
+    {
+      "id": 10,
+      "descripcion": "Factura Venta"
+    },
+    {
+      "id": 11,
+      "descripcion": "Detalle Factura Venta"
+    },
+    {
+      "id": 12,
+      "descripcion": "Suscripciones"
+    },
+    {
+      "id": 13,
+      "descripcion": "Clientes"
+    },
+    {
+      "id": 14,
+      "descripcion": "Domicilios"
+    },
+    {
+      "id": 15,
+      "descripcion": "Cuotas"
+    },
+    {
+      "id": 16,
+      "descripcion": "Cobros"
+    },
+    {
+      "id": 17,
+      "descripcion": "Permisos"
+    },
+    {
+      "id": 18,
+      "descripcion": "Formatos Facturas"
+    }
+  ]

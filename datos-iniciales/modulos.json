@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Grupos",
+    "eliminado": false
+  },
+  {
+    "id": 2,
+    "descripcion": "Servicios",
+    "eliminado": false
+  },
+  {
+    "id": 3,
+    "descripcion": "Departamentos",
+    "eliminado": false
+  },
+  {
+    "id": 4,
+    "descripcion": "Distritos",
+    "eliminado": false
+  },
+  {
+    "id": 5,
+    "descripcion": "Barrios",
+    "eliminado": false
+  },
+  {
+    "id": 7,
+    "descripcion": "Usuarios",
+    "eliminado": false
+  },
+  {
+    "id": 8,
+    "descripcion": "Roles",
+    "eliminado": false
+  },
+  {
+    "id": 9,
+    "descripcion": "Suscripciones",
+    "eliminado": false
+  },
+  {
+    "id": 10,
+    "descripcion": "Clientes",
+    "eliminado": false
+  },
+  {
+    "id": 11,
+    "descripcion": "Domicilios",
+    "eliminado": false
+  },
+  {
+    "id": 12,
+    "descripcion": "Cuotas",
+    "eliminado": false
+  },
+  {
+    "id": 13,
+    "descripcion": "Timbrados",
+    "eliminado": false
+  },
+  {
+    "id": 14,
+    "descripcion": "Ventas",
+    "eliminado": false
+  },
+  {
+    "id": 15,
+    "descripcion": "Permisos",
+    "eliminado": false
+  },
+  {
+    "id": 16,
+    "descripcion": "Estadísticas",
+    "eliminado": false
+  },
+  {
+    "id": 17,
+    "descripcion": "Auditoría",
+    "eliminado": false
+  },
+  {
+    "id": 18,
+    "descripcion": "Impresión",
+    "eliminado": false
+  },
+  {
+    "id": 19,
+    "descripcion": "Pagos de Clientes",
+    "eliminado": false
+  },
+  {
+    "id": 20,
+    "descripcion": "Punto de Venta (POS)",
+    "eliminado": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "descripcion": "Administrador",
+      "eliminado": false,
+      "solo_lectura": true
+    },
+    {
+      "id": 2,
+      "descripcion": "No definido",
+      "eliminado": false,
+      "solo_lectura": true
+    },
+    {
+      "id": 3,
+      "descripcion": "Cobrador",
+      "eliminado": false,
+      "solo_lectura": true
+    },
+    {
+      "id": 4,
+      "descripcion": "Sistema",
+      "eliminado": false,
+      "solo_lectura": true
+    },
+    {
+      "id": 5,
+      "descripcion": "Facturador Electrónico",
+      "eliminado": false,
+      "solo_lectura": true
+    }
+  ]
