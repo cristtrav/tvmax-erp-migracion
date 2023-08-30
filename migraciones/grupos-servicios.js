@@ -18,11 +18,16 @@ async function migrar() {
             `INSERT INTO public.servicio
                 (id, descripcion, precio, suscribible, idgrupo, porcentaje_iva, eliminado)
                 VALUES($1, $2, $3, $4, $5, $6, false)`,
-                [convertirIdServicio(servicio.idservicio), servicio.nombre, servicio.precio, servicio.suscribible, 1, 10]);
+                [convertirIdServicio(servicio.idservicio), servicio.nombre, servicio.precio, servicio.suscribible, getIdGrupo(servicio), 10]);
     }
-
     await mysql.end();
     await postgres.end();
+}
+
+function getIdGrupo(servicio){
+    if(servicio.idservicio == 1) return 11;
+    if(servicio.suscribible == 1) return 12;
+    return 13 
 }
 
 function convertirIdServicio(id){
