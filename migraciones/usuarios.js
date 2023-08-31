@@ -3,6 +3,8 @@ const postgrescon = require('../base-datos/conexion-postgres');
 const roles = require('../datos-iniciales/roles.json');
 const argon2 = require('argon2');
 
+const ciFuncionariosConAcceso = [3402256, 5483541, 4278663, 5558893, 5178269];
+
 async function migrar(){
     console.log('Migrando usuarios...');
     const mysql = await mysqlcon.getConnection();
@@ -33,12 +35,12 @@ async function migrar(){
                 funcionario.nombres,
                 funcionario.apellidos,
                 convertirId(funcionario.idfuncionario) == 2 ? '1001' : funcionario.ci,
-                convertirId(funcionario.idfuncionario) == 2,
+                convertirId(funcionario.idfuncionario) == 2 || ciFuncionariosConAcceso.includes(funcionario.ci),
                 null,
                 funcionario.telefono1 && funcionario.telefono1 === '' ? null : funcionario.telefono1,
                 2,
                 false,
-                convertirId(funcionario.idfuncionario) == 2 ? await argon2.hash('12345678') : null
+                await createPassword(funcionario)
             ]
         );
     }
@@ -59,6 +61,13 @@ async function migrar(){
     }
     mysql.end();
     postgres.end();
+}
+
+async function createPassword(funcionario){
+    if(funcionario.idfuncionario == 1001) return await argon2.hash('12345678');
+    if(funcionario.idfuncionario == 1008) return await argon2.hash('a4553-c721');
+    if(ciFuncionariosConAcceso.includes(funcionario.ci)) return argon2.hash(`${funcionario.ci}`);
+    return null;
 }
 
 function convertirId(id){
