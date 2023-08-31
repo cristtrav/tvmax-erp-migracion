@@ -54,10 +54,11 @@ async function migrar(){
         eliminado
     ) VALUES (3, 'SISTEMA', false, 4, true, false)`);
 
-    console.log('Agregando permisos al admin...');
+    console.log('Agregando permisos al admin y a gloria ;) ...');
     const funcionalidades = (await postgres.query(`SELECT * FROM public.funcionalidad`)).rows;
     for(let func of funcionalidades){
         await postgres.query(`INSERT INTO public.permiso (idfuncionalidad, idusuario) VALUES ($1, $2)`, [func.id, 2]);
+        await postgres.query(`INSERT INTO public.permiso (idfuncionalidad, idusuario) VALUES ($1, $2)`, [func.id, 37]);
     }
     mysql.end();
     postgres.end();
