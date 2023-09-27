@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"    
+    "start": "node index.js"
   },
   "author": "Cristhian Traversi",
   "license": "ISC",
   "dependencies": {
     "argon2": "^0.30.3",
     "dotenv": "^16.3.1",
+    "luxon": "^3.4.3",
     "mysql2": "^3.2.0",
     "pg": "^8.10.0"
   },
